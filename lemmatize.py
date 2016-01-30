@@ -4,8 +4,8 @@
 from os import path
 import requests
 
-# file_names = ['smer', 'siet', 'kdh', 'olano', 'most-hid', ]
-file_names = ['kdh']
+# file_names = ['smer', 'siet', 'kdh', 'olano', 'most-hid', 'sas']
+file_names = ['sas']
 
 url = 'http://text.fiit.stuba.sk:8080/lematizer/services/lemmatizer/lemmatize/fast'
 headers = {'Content-Type': 'text/plain'}

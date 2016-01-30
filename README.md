@@ -22,6 +22,10 @@
 
 ![Most-Hid](results/most-hid-500.png)
 
+**SaS**
+
+![SaS](results/sas-500.png)
+
 ## Sources
 ### Stopwords
 https://code.google.com/p/stop-words/
@@ -46,3 +50,5 @@ http://strana-smer.sk/priority-programu-strany-smer-sd-pre-roky-2016-2020-0
 http://kdh.sk/wp-content/uploads/2016/01/volebny_program_web.pdf
 
 http://siet.sk/program/
+
+http://www.strana-sas.sk/file/4282/SaS_volebny_program.pdf

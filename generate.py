@@ -14,8 +14,8 @@ import matplotlib.pyplot as plt
 
 
 # Smer
-colors = [(195, 27, 51)]
-file_name = 'programy/smer-lemma-simple.txt'
+# colors = [(195, 27, 51)]
+# file_name = 'programy/smer-lemma-simple.txt'
 
 # Siet
 # colors = [(235, 90, 84), (36, 142, 186)]
@@ -32,6 +32,10 @@ file_name = 'programy/smer-lemma-simple.txt'
 # Most-Hid
 # colors = [(245, 128, 37), (35, 31, 32)]
 # file_name = 'programy/most-hid-lemma-simple.txt'
+
+# SaS
+colors = [(166, 206, 56), (0, 132, 203), (0, 70, 125)]
+file_name = 'programy/sas-lemma-simple.txt'
 
 
 # Read the whole text.
