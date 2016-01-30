@@ -1,5 +1,5 @@
 # Wordclouds for Slovak parliamentary election 2016
-
+Most common words from political party manifestos. Check out what is their focus!
 
 ## Results
 **Smer**
@@ -27,6 +27,12 @@
 ![SaS](results/sas-500.png)
 
 ## Sources
+### Process of creation
+1. Lemmatisation
+2. Removal of diacritics
+3. Removal of stopwords
+4. Generating wordclouds
+
 ### Stopwords
 https://code.google.com/p/stop-words/
 
@@ -52,3 +58,8 @@ http://kdh.sk/wp-content/uploads/2016/01/volebny_program_web.pdf
 http://siet.sk/program/
 
 http://www.strana-sas.sk/file/4282/SaS_volebny_program.pdf
+
+### Inspiration
+https://github.com/robintw/manifestoclouds
+
+https://github.com/amueller/word_cloud
