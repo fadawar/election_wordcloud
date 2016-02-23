@@ -18,8 +18,8 @@ import matplotlib.pyplot as plt
 # file_name = 'programy/smer-lemma-simple.txt'
 
 # Siet
-# colors = [(235, 90, 84), (36, 142, 186)]
-# file_name = 'programy/siet-lemma-simple.txt'
+colors = [(235, 90, 84), (36, 142, 186)]
+file_name = 'programy/siet-lemma-simple.txt'
 
 # KDH
 # colors = [(214, 12, 26), (0, 80, 140)]
@@ -34,8 +34,8 @@ import matplotlib.pyplot as plt
 # file_name = 'programy/most-hid-lemma-simple.txt'
 
 # SaS
-colors = [(166, 206, 56), (0, 132, 203), (0, 70, 125)]
-file_name = 'programy/sas-lemma-simple.txt'
+# colors = [(166, 206, 56), (0, 132, 203), (0, 70, 125)]
+# file_name = 'programy/sas-lemma-simple.txt'
 
 
 # Read the whole text.
