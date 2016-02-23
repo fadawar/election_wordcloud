@@ -18,16 +18,16 @@ import matplotlib.pyplot as plt
 # file_name = 'programy/smer-lemma-simple.txt'
 
 # Siet
-colors = [(235, 90, 84), (36, 142, 186)]
-file_name = 'programy/siet-lemma-simple.txt'
+# colors = [(235, 90, 84), (36, 142, 186)]
+# file_name = 'programy/siet-lemma-simple.txt'
 
 # KDH
 # colors = [(214, 12, 26), (0, 80, 140)]
 # file_name = 'programy/kdh-lemma-simple.txt'
 
 # OLaNO
-# colors = [(178, 200, 0), (72, 81, 89)]
-# file_name = 'programy/olano-lemma-simple.txt'
+colors = [(178, 200, 0), (72, 81, 89)]
+file_name = 'programy/olano-lemma-simple.txt'
 
 # Most-Hid
 # colors = [(245, 128, 37), (35, 31, 32)]

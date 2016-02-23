@@ -47,15 +47,13 @@ http://www.diakritika.rs-design.sk/
 ### Programy
 http://most-hid.sk/sk/program
 
-http://www.obycajniludia.sk/ciele-a-vizia-hnutia/
-
-http://www.obycajniludia.sk/wp-content/uploads/2015/12/zmluva-so-slovenskom.jpg
+http://www.obycajniludia.sk/wp-content/uploads/2016/02/program-olano.pdf (2016-02-23)
 
 http://strana-smer.sk/priority-programu-strany-smer-sd-pre-roky-2016-2020-0
 
 http://kdh.sk/wp-content/uploads/2016/01/volebny_program_web.pdf
 
-http://siet.sk/program/
+http://siet.sk/program/ (2016-02-23)
 
 http://www.strana-sas.sk/file/4282/SaS_volebny_program.pdf
 
